@@ -1,0 +1,11 @@
+torch
+flwr[simulation]==1.8.0
+flwr_datasets[vision]
+numpy
+matplotlib
+torchvision
+scikit-learn
+tqdm
+ucimlrepo
+comet_ml
+pot
